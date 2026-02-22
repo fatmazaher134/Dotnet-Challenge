@@ -1,0 +1,39 @@
+## [ Visual Studio ]
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## [ .NET Core / ASP.NET Core ]
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## [ Visual Studio Code ]
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## [ Operating System Files ]
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## [ User-specific files ]
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## [ Publishing / Builds ]
+publish/
+*.exe
+*.dll
+*.pdb
+*.nupkg
